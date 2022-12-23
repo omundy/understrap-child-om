@@ -1,0 +1,26 @@
+
+
+/*
+
+https://docs.understrap.com/#/understrap-child/getting-started
+
+*/
+
+
+
+html, body {
+    color:#111;
+    background:#fff;    
+}
+
+
+a, a:link, a:hover, a:visited { 
+    color: var(--bs-blue);
+    text-decoration: underline;
+}
+
+
+
+.navbar { padding-left: 0px; }
+.navbar-brand { font-family:Georgia, "Times New Roman", Times, serif; font-size: 1.8rem; }
+.navbar-light { background-color: #fff; }
